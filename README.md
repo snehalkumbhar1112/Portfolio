@@ -28,5 +28,6 @@ TypeScript
 If you have any questions or would like to connect, you can reach me at:
 
 Email: snehalkumbhar1112@gmail.com
+
 LinkedIn: snehal-kumbhar-860a1b230
 
