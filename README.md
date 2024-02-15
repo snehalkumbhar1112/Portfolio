@@ -3,10 +3,15 @@ This repository contains the source code for my portfolio website. It showcases 
 
 # Contents
 Header Section: Contains navigation links to different sections of the website.
+
 About Me Section: Brief introduction and overview of my skills and work experience.
+
 Portfolio Section: Highlights two significant projects I have worked on, including the problems addressed, solutions implemented, and their impact.
+
 Experience Section: Details my internship experience and current employment status.
+
 Contact Section: Provides my contact information for potential employers or collaborators.
+
 Footer Section: A welcoming message to visitors.
 
 # Technologies Used
