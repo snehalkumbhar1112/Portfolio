@@ -15,17 +15,18 @@ Contact Section: Provides my contact information for potential employers or coll
 Footer Section: A welcoming message to visitors.
 
 # Technologies Used
-HTML5
-CSS3
-Bootstrap 5
-JavaScript
-AngularJS
-ASP.NET
-EntityFramework
+HTML5, 
+CSS3, 
+Bootstrap 5, 
+JavaScript, 
+AngularJS, 
+ASP.NET, 
+EntityFramework, 
 TypeScript
 
 # Contact
 If you have any questions or would like to connect, you can reach me at:
+
 Email: snehalkumbhar1112@gmail.com
 LinkedIn: snehal-kumbhar-860a1b230
 
